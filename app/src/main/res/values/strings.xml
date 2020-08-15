@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">Registration</string>
+
+    <string name="let_s_get_started">Let\'s Get Started!!</string>
+    <string name="create_an_account_ang_get_all_the_features">Create an account ang get all the features</string>
+    <string name="text1">Create an account and get all features</string>
+    <string name="Address">Address*</string>
+    <string name="email">Email*</string>
+    <string name="address">Address*</string>
+    <string name="phone">Phone*</string>
+    <string name="password">Password*</string>
+    <string name="Re_type_password">Re_type_password*</string>
+    <string name="Username">Username*</string>
+    <string name="login_here">login_here</string>
+    <string name="button">Button</string>
+    <string name="create">create</string>
+    <string name="back">Back</string>
+    <string name="app_name1">login page</string>
+    <string name="welcome_back">Welcome Back!!</string>
+    <string name="login_to_your_existent_account">Login to your existent account</string>
+    <string name="name1">Username*</string>
+    <string name="password1">Password*</string>
+    <string name="checkbox">keep remember me</string>
+    <string name="button1">Login</string>
+    <string name="button2">Forgotten password</string>
+    <string name="login">Login</string>
+    <string name="forgotten_password">Forgotten password</string>
+    <string name="welcome_to_account">Welcome To Account</string>
+    <string name="name_sammani_fernando">Name : Sammani Fernando</string>
+    <string name="email_sammanif123_gmail_com">Email : Sammanif123@gmail.com</string>
+    <string name="address_katuwapitiya_negombo">Address : Katuwapitiya,Negombo</string>
+    <string name="phone_07xxxxxxxx">Phone : 07XXXXXXXX</string>
+    <string name="username_sammani123">UserName : Sammani123</string>
+    <string name="back1">Back</string>
+    <string name="change_details">Change Details</string>
+    <string name="title_activity_main4">MainActivity</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="name3">Sammani Fernando</string>
+    <string name="name">Name*</string>
+    <string name="Name">Sammani Fernando</string>
+    <string name="todo">todo</string>
+    <string name="todo1">todo</string>
+    <string name="todo2">todo</string>
+    <string name="todo3">todo</string>
+    <string name="todo4">todo</string>
+    <string name="todo5">todo</string>
+    <string name="input1">sammanif123_gmail_com</string>
+    <string name="input0">Sammani Fernando</string>
+    <string name="sammani_fernando">Sammani Fernando</string>
+    <string name="sammanif123_gmail_com">sammanif123@gmail.com</string>
+    <string name="input2">Katuwapitiya,Negombo</string>
+    <string name="katuwapitiya_negombo">Katuwapitiya,Negombo</string>
+    <string name="input3">07XXXXXXXX</string>
+    <string name="_07xxxxxxxx">07XXXXXXXX</string>
+    <string name="input4">Sammani123</string>
+    <string name="sammani123">Sammani123</string>
+    <string name="change_password">Change Password</string>
+    <string name="save">Save</string>
+    <string name="button5">My account</string>
+    <string name="my_account">My Account</string>
+
+
+</resources>
